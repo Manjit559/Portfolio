@@ -32,7 +32,7 @@ export const ProjectList = [
     skills: "JavaScript,HTML,CSS",
   },
   {
-    name: "quiz app",
+    name: "Smart File Sharing Hub",
     image: Proj6,
     skills: "React Native,JavaScript,HTML,CSS",
   },
