@@ -40,17 +40,18 @@ function Home() {
           <li className="item">
             <h2>Programming Languages</h2>
             <span>
-           Java,Python,SQL
+           Java, SQL
             </span>
           </li>
           <li className="item">
-            <h2>Framwork & tools</h2>
+            <h2>Framwork, Architecture and DataBase </h2>
             <span>
-             React.js,Node.js,Next.js,Express.js, Pandas, numpy ,Git, postman, vs code , jupyter            </span>
+            Springboot, Microservices, Systems Design,
+             React.js, Next.js, Node.js, Express.js, MySQL,MongoDB, PostgreSQL  </span>
           </li>
           <li className="item">
             <h2>Soft Skills</h2>
-            <span> Communication , Team work , Curiosity , Consistency </span>
+            <span> People Management, Stakeholder management, Excellent Communication </span>
           </li>
         </ol>
       </div>
